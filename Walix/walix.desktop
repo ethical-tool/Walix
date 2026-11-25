@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Walix (WhatsApp)
+GenericName=WhatsApp Client
+Comment=Unofficial WhatsApp Web client for Kali Linux — animated, ethical, powerful
+Exec=/usr/local/bin/walix
+TryExec=/usr/local/bin/walix
+Icon=walix
+Terminal=false
+Categories=Network;InstantMessaging;Chat;
+Keywords=whatsapp;chat;messenger;kali;walix;
+StartupWMClass=Walix
+StartupNotify=true
